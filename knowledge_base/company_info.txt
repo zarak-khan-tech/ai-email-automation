@@ -1,0 +1,15 @@
+COMPANY INFORMATION
+
+Company Name: TechSupport Pro
+What we do: We provide IT support, software development, and cloud consulting services for small businesses.
+Business Hours: Monday to Friday, 9:00 AM - 6:00 PM (EST)
+Website: www.techsupportpro.com
+Phone: +1 (555) 123-4567
+Email: support@techsupportpro.com
+
+Our Services:
+- Remote IT support and troubleshooting
+- Website development and maintenance
+- Cloud migration and setup
+- Cybersecurity audits
+- Data backup solutions

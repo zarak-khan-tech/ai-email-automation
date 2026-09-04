@@ -1,0 +1,16 @@
+COMPANY POLICIES
+
+Support Policy:
+- Response time: Within 4 business hours
+- Resolution time: Depends on issue severity
+- Escalation: Complex issues are escalated to senior engineers within 24 hours
+
+Privacy Policy:
+- We never share client data with third parties
+- All communications are encrypted
+- Data is stored on secure cloud servers
+
+Cancellation Policy:
+- Monthly plans can be cancelled anytime
+- Annual plans: prorated refund if cancelled within 90 days
+- No cancellation fees
