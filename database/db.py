@@ -3,7 +3,8 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from config.settings import settings
 
 # Create the database engine (the connection to PostgreSQL)
-engine = create_engine(settings.database_url)
+# engine = create_engine(settings.database_url)
+engine = create_engine("sqlite:///email_automation.db")
 
 # Create a session factory (used to talk to the database)
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
