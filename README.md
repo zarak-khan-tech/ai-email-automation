@@ -178,12 +178,23 @@ The application starts the email-processing service and schedules repeated inbox
 
 ## 📸 Screenshots
 
-Project screenshots can be added here to demonstrate:
+### Runtime Processing
 
-- AI-generated email reply
-- PostgreSQL / pgAdmin records
-- Terminal / CMD processing output
-- Gmail inbox and automation result
+Shows the automation service running and processing the email workflow from the terminal.
+
+![Runtime Processing](runtime.png)
+
+### Database Records
+
+Shows the processed email data and AI analysis stored in PostgreSQL / pgAdmin.
+
+![Database Records](database.png)
+
+### Automated Email Result
+
+Shows the generated professional reply produced by the automation workflow.
+
+![Automated Email Result](email-result.png)
 
 ## 📚 Skills Demonstrated
 
